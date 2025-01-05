@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Family Guy",
+        "rating": "8.1",
+        "img_url": "https://resizing.flixster.com/AVoI90RoKxKOJBLTZG6hrsiT5s0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9258427_b_v13_aa.jpg",
+        "summary": "This animated series features the adventures of the Griffin family. Endearingly ignorant Peter and his stay-at-home wife, Lois, reside in Quahog, R.I., and have three kids. Meg, the eldest child, is a social outcast, and teenage Chris is awkward and clueless when it comes to the opposite sex.",
+        "genre":"Comedy"
+
+    },
+
+    {
+    
+    "name": "The Office",
+    "rating": "9",
+    "img_url": "https://img.etimg.com/thumb/width-640,height-480,imgsize-25352,resizemode-75,msid-105192077/news/international/us/will-the-new-the-office-series-be-a-reboot-heres-what-we-know-so-far.jpg",
+    "summary": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+    "genre":"Comedy"
+    },
+
+    {
+    "name": "South Park",
+    "rating": "8.7",
+    "img_url": "https://m.media-amazon.com/images/S/pv-target-images/d6f074a38d0e2e5b7c4d36ff7a9c26dd98333acb59903cc9178a0d68ac6d1029.jpg",
+    "summary": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado. The curious, adventure-seeking group of 10-year-old fourth-grade boys--Stan, Kyle, Cartman, and Kenny--all join in on buffoonish adventures that sometimes evolve nothing.",
+    "genre":"Comedy"
+    }
+]
