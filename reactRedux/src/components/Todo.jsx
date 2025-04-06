@@ -16,7 +16,7 @@ export default function Todo() {
   }
   return (
     <div className="bg-gray-900 h-screen flex flex-col items-center">
-      <h1 className="my-10 md:text-7xl sm:text-5xl text-gray-100">TodoList</h1>
+      <h1 className="my-10 text-6xl  text-gray-100">TodoList</h1>
       <div className="mb-10">
         <input
           value={task}
@@ -32,7 +32,7 @@ export default function Todo() {
         </button>
       </div>
       {state.length != 0 && (
-        <ul className="h-auto mb-4 rounded-2xl w-100 bg-gray-300 ">
+        <ul className="h-auto mb-4 rounded-2xl w-screen ml-4 mr-4 bg-gray-300 ">
           {state.map((curElem, index) => {
             return (
               <li
