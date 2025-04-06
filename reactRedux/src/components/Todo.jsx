@@ -32,12 +32,12 @@ export default function Todo() {
         </button>
       </div>
       {state.length != 0 && (
-        <ul className="h-auto mb-4 rounded-2xl w-screen ml-4 mr-4 bg-gray-300 ">
+        <ul className="h-auto mb-4 rounded-2xl min-w-80  bg-gray-300 ">
           {state.map((curElem, index) => {
             return (
               <li
                 key={index}
-                className=" my-2 h-10 w-100 flex   items-center justify-between px-10"
+                className=" my-2 h-10 flex   items-center justify-between px-4"
               >
                 <h2 className="font-bold capitalize ">{curElem}</h2>
                 <button
