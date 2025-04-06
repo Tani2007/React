@@ -15,7 +15,7 @@ export default function Todo() {
     return dispatch(deleteTask(id));
   }
   return (
-    <div className="bg-gray-900 h-screen flex flex-col items-center">
+    <div className="bg-gray-900 h-screen w-screen flex flex-col items-center">
       <h1 className="my-10 text-6xl  text-gray-100">TodoList</h1>
       <div className="mb-10">
         <input
